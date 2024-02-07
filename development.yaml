@@ -1,0 +1,7 @@
+# rule for daily
+
+domain_set:
+  - cdn.shopify.com
+domain_suffix_set:
+  - shopify.com
+  - shopify.dev
