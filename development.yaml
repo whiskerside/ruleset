@@ -2,8 +2,17 @@
 
 domain_set:
   - cdn.shopify.com
+  - cdn.cloudflare.com
+  - shops.myshopify.com
+  - otlp-http-production-cli.shopifysvc.com
+  - otlp-http-production.shopifysvc.com
 domain_suffix_set:
+  - ngrok.io
+  - ngrok-free.app
+  - cloudflare.com
   - shopify.com
+  - myshopify.com
   - shopify.dev
-  - easyshop.io
+  # - easyshop.io
   - mystuffs.co
+  - freshworksapi.com
