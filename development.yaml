@@ -1,15 +1,25 @@
 # rule for daily
 
 domain_set:
+  # shopify
   - cdn.shopify.com
-  - cdn.cloudflare.com
   - shops.myshopify.com
   - otlp-http-production-cli.shopifysvc.com
   - otlp-http-production.shopifysvc.com
+
 domain_suffix_set:
+  # google
+  - googleusercontent.com
+  - googleapis.com
+  # github
+  - githubusercontent.com
+  # cloudflare
+  - cdn.cloudflare.com
+  - cloudflare.com
+
   - ngrok.io
   - ngrok-free.app
-  - cloudflare.com
+
   - shopify.com
   - myshopify.com
   - shopify.dev
