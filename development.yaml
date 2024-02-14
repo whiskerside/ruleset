@@ -18,8 +18,8 @@ domain_suffix_set:
   - trycloudflare.com
   - cloudflare.com
 
-  - ngrok.io
-  - ngrok-free.app
+  # - ngrok.io
+  # - ngrok-free.app
 
   - shopify.io
   - shopify.com
