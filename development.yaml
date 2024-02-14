@@ -20,6 +20,7 @@ domain_suffix_set:
 
   # - ngrok.io
   # - ngrok-free.app
+  - devtunnels.ms
 
   - shopify.io
   - shopify.com
