@@ -14,7 +14,8 @@ domain_suffix_set:
   # github
   - githubusercontent.com
   # cloudflare
-  - cdn.cloudflare.com
+  # - cdn.cloudflare.com
+  - trycloudflare.com
   - cloudflare.com
 
   - ngrok.io
@@ -23,6 +24,6 @@ domain_suffix_set:
   - shopify.com
   - myshopify.com
   - shopify.dev
-  # - easyshop.io
-  # - mystuffs.co
+  - easyshop.io
+  - mystuffs.co
   - freshworksapi.com
