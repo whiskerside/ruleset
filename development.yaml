@@ -3,9 +3,9 @@
 domain_set:
   # shopify
   # - cdn.shopify.com
+  # - admin.shopify.com
   - shops.myshopify.com
   - partners.shopify.com
-  - admin.shopify.com
   - otlp-http-production-cli.shopifysvc.com
   - otlp-http-production.shopifysvc.com
 
