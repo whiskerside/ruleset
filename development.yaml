@@ -2,8 +2,10 @@
 
 domain_set:
   # shopify
-  - cdn.shopify.com
+  # - cdn.shopify.com
   - shops.myshopify.com
+  - partners.shopify.com
+  - admin.shopify.com
   - otlp-http-production-cli.shopifysvc.com
   - otlp-http-production.shopifysvc.com
 
@@ -18,14 +20,14 @@ domain_suffix_set:
   - trycloudflare.com
   - cloudflare.com
 
-  # - ngrok.io
-  # - ngrok-free.app
-  # - devtunnels.ms
+  - ngrok.io
+  - ngrok-free.app
+  - devtunnels.ms
   - shopify.io
-  - shopify.com
   - shopifyapps.com
   - myshopify.com
   - shopify.dev
   - easyshop.io
   - mystuffs.co
   - freshworksapi.com
+  # - siftscience.com
