@@ -11,17 +11,16 @@ domain_suffix_set:
   # google
   - googleusercontent.com
   - googleapis.com
+  - google.com
   # github
   - githubusercontent.com
   # cloudflare
-  # - cdn.cloudflare.com
   - trycloudflare.com
   - cloudflare.com
 
   # - ngrok.io
   # - ngrok-free.app
-  - devtunnels.ms
-
+  # - devtunnels.ms
   - shopify.io
   - shopify.com
   - shopifyapps.com
