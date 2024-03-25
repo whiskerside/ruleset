@@ -1,6 +1,9 @@
 # 规则名称:Shopify
 # 规则统计:11
 
+DOMAIN-KEYWORD,shopify
+DOMAIN-KEYWORD,myshopify
+
 DOAMIN,admin.shopify.com
 DOAMIN,shops.shopify.com
 DOAMIN,partners.shopify.com
