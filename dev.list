@@ -3,6 +3,8 @@
 
 DOMAIN-KEYWORD,shopify
 DOMAIN-KEYWORD,myshopify
+DOMAIN-KEYWORD,otlp-http-production.shopifysvc.com
+DOMAIN-KEYWORD,otlp-http-production-cli.shopifysvc.com
 
 DOMAIN,admin.shopify.com
 DOMAIN,shops.shopify.com
