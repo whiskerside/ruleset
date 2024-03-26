@@ -4,11 +4,11 @@
 DOMAIN-KEYWORD,shopify
 DOMAIN-KEYWORD,myshopify
 
-DOAMIN,admin.shopify.com
-DOAMIN,shops.shopify.com
-DOAMIN,partners.shopify.com
-DOAMIN,otlp-http-production.shopifysvc.com
-DOAMIN,otlp-http-production-cli.shopifysvc.com
+DOMAIN,admin.shopify.com
+DOMAIN,shops.shopify.com
+DOMAIN,partners.shopify.com
+DOMAIN,otlp-http-production.shopifysvc.com
+DOMAIN,otlp-http-production-cli.shopifysvc.com
 
 DOMAIN-SUFFIX,shopifysvc.com
 DOMAIN-SUFFIX,shopify.io
